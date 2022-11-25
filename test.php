@@ -5,7 +5,7 @@
 
 // Was wird ausgegeben?
 
-';
+// ';
  $c = $a = $b;
 foreach(array($c) as $d){
  $x = strpos($c, $c[0]);
